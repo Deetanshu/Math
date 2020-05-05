@@ -6,6 +6,6 @@ The implementations of various things that I did over time. While I've typed out
 * Random_forest.py - A Random Forest model.
 * VAE_Keras.py - Variational Autoencoder using Keras.
 * autocomplete.py - Created an autocomplete model (model not included)
-* deepdream.py - An implementation of Google's deepdream.
+* deepdream.py - An implementation of Google's deepdream. Style_utils.py is the actual "brain" of the code.
 * k_means.py - K means clustering.
 * svm.py - Support Vector Machines
