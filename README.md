@@ -1,7 +1,6 @@
 # Math
-The implementations of various things that I did over time.
+The implementations of various things that I did over time. While I've typed out all the code myself, in the earlier files I've followed tutorials or blog posts, but I ensured that I understood what I'd done.
 
-* Gaussian_mixture.py - Gaussian mixture model.
 * Logistic_regression.py - Logistic regression model.
 * RNN.py - Recurrent Neural Network.
 * Random_forest.py - A Random Forest model.
